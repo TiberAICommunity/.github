@@ -33,7 +33,7 @@ We welcome contributions from anyone interested in cloud AI deployments! You can
 
 ## ⚠️ Disclaimer
 
-This is an unofficial community initiative. We are not affiliated with Intel or Intel Tiber AI cloud. All trademarks and registered trademarks are the property of their respective owners.
+This is an unofficial product by Intel or Intel Tiber AI cloud, registered trademarks are the property of their respective owners.
 
 ## 📫 Join the Community
 
