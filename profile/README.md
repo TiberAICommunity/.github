@@ -1,10 +1,10 @@
 # Tiber AI Community
 
-An unofficial community focused on making AI deployments easier on Intel Tiber AI cloud.
+An unofficial community focused on making AI deployments easier on [Intel Tiber AI cloud](https://cloud.intel.com).
 
 ## � About Us
 
-We're a community-driven initiative helping developers deploy and run AI models on Intel Tiber AI cloud infrastructure. This is an unofficial effort by the community, for the community.
+We're a community-driven initiative helping developers deploy and run AI models on [Intel Tiber AI cloud](https://cloud.intel.com) infrastructure.
 
 ## 🎯 Our Focus
 
@@ -33,7 +33,7 @@ We welcome contributions from anyone interested in cloud AI deployments! You can
 
 ## ⚠️ Disclaimer
 
-This is an unofficial product by Intel or Intel Tiber AI cloud, registered trademarks are the property of their respective owners.
+This is not an official product by Intel or Intel Tiber AI cloud, registered trademarks are the property of their respective owners.
 
 ## 📫 Join the Community
 
